@@ -9,7 +9,8 @@
 void main()
 {
     setlocale(LC_ALL,"Russian");
-	
+	system("color F0");
+
 	int n, j(0);
 	double h;
 	bool flag;
